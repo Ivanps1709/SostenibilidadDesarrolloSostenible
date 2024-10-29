@@ -10,3 +10,5 @@ Se destina a reducir la necesidad de actividades que degraden el impacto ambient
 como reducir el consumo energético, de agua o recursos naturales. 
 
 ### Ejemplo
+
+Una empresa necesita satisfacer una creciente demanda de energía, por lo tanto su
