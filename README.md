@@ -1,5 +1,5 @@
 # Sostenibilidad Desarrollo Sostenible
-![introduccion](img/introduccion.jpg)
+![introduccion](img/bosque.jpg)
 ## Índice
 1.1. [Introducción](introduccion.md)
 
