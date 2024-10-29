@@ -1,4 +1,4 @@
-# SostenibilidadDesarrolloSostenible
+# Sostenibilidad Desarrollo Sostenible
 
 ## Índice
 1.1. [Introducción](introduccion.md)
