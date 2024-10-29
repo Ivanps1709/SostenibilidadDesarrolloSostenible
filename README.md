@@ -3,7 +3,7 @@
 ## Índice
 1.1. [Introducción](introduccion.md)
 
-1.2 [Sostenibilidad y desarrollo sostenible](Sostenibilidadydesarrollosostenible.md)
+1.2 [Sostenibilidad y desarrollo sostenible](Sostenibilidad.md)
 
 1.3 [¿Qué significa la sigla ASG?]()
 
