@@ -16,6 +16,7 @@
 ## Conclusiones
 ## Mapa conceptual (Herramientas utilizada)
 ![mapa conceptual](img/mapaconceptual.png)
+Herramienta Utilizada: Canva
 ## Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 ## Referencias
 ## Autores
