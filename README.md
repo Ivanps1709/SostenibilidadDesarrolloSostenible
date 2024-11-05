@@ -15,6 +15,7 @@
 
 ## Conclusiones
 ## Mapa conceptual (Herramientas utilizada)
+![mapa conceptual](img/mapaconceptual.png)
 ## Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 ## Referencias
 ## Autores
