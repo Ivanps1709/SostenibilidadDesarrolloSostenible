@@ -22,6 +22,6 @@ Herramienta Utilizada: Canva
 ## Referencias
 ## Autores
 ---
-Iván Palma Sierra
-Iker Cupillar Aliagar
-Álvaro Moreno Dominguez
+- Iván Palma Sierra
+- Iker Cupillar Aliagar
+- Álvaro Moreno Dominguez
