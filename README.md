@@ -21,3 +21,7 @@ Herramienta Utilizada: Canva
 ## Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 ## Referencias
 ## Autores
+---
+Iván Palma Sierra
+Iker Cupillar Aliagar
+Álvaro Moreno Dominguez
