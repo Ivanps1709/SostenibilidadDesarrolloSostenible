@@ -20,6 +20,8 @@
 Herramienta Utilizada: Canva
 ## Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)
 [Glosario Interactivo](https://view.genially.com/672c81a613e6505420dc0335/interactive-content-glosario-interactivo-sostenibilidad-y-desarrollo-sostenible)
+---
+Herramienta Utilizada: Genially
 ## Referencias
 ## Autores
 - Iván Palma Sierra
