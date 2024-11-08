@@ -1,5 +1,7 @@
 # Sostenibilidad Desarrollo Sostenible
 ![introduccion](img/sostenibilidad2.jpeg)
+---
+(Imagen realizada con IA)
 ## Índice
 1.1. [Introducción](introduccion.md)
 
