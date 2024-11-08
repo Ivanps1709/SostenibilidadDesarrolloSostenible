@@ -15,13 +15,14 @@
 
 1.6 [Evaluación del desempeño en sostenibilidad de las empresas]()
 
-## Conclusiones
 ## Mapa conceptual (Herramientas utilizada)
 ![mapa conceptual](img/mapaconceptual.png)
 ---
 Herramienta Utilizada: Canva
 ## [Glosario (Asamblea, Biodiversidad, Derechos humanos, Gobernanza, Kioto, métrica)](https://view.genially.com/672c81a613e6505420dc0335/interactive-content-glosario-interactivo-sostenibilidad-y-desarrollo-sostenible)
 Herramienta Utilizada: Genially
+## Conclusiones
+
 ## Referencias
 ## Autores
 - Iván Palma Sierra
