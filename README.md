@@ -15,7 +15,7 @@
 
 1.6 [Evaluación del desempeño en sostenibilidad de las empresas]()
 
-## Mapa conceptual (Herramientas utilizada)
+## Mapa conceptual
 ![mapa conceptual](img/mapaconceptual.png)
 ---
 Herramienta Utilizada: Canva
