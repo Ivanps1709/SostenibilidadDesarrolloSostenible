@@ -7,7 +7,7 @@
 
 1.2 [Sostenibilidad y desarrollo sostenible](sostenibilidad.md)
 
-1.3 [¿Qué significa la sigla ASG?](SiglasASG.md)
+1.3 [¿Qué significa la sigla ASG?](siglasASG.md)
 
 1.4 [La Agenda 2030 y los ODS](agenda.md)
 
