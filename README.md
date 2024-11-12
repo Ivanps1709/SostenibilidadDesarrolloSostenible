@@ -24,5 +24,5 @@ Herramienta Utilizada: Genially
 ## [Conclusiones](conclusion.md)
 ## Autores
 - Iván Palma Sierra
-- Iker Cupillar Aliagar
+- Iker Cupillar Aliaga
 - Álvaro Moreno Dominguez
