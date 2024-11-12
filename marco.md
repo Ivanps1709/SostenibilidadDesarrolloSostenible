@@ -32,3 +32,5 @@ las normas europeas.
   que las empresas ahora están obligadas a diseñar productos que duren mucho más y que sean reparables
   y cuando se rompan, se puedan reciclar.
 
+  ![marco](img/marco.jpg)
+
