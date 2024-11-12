@@ -26,6 +26,8 @@ Es esencial para la reciclabilidad de los materiales en los productos. Resulta e
 
 Los informes de ESG (ambientales, sociales y de gobernanza) son clave para entender el impacto social de las operaciones. Al establecer indicadores clave de desempeño (KPIs), las empresas pueden recopilar datos relevantes que no solo miden su sostenibilidad, sino que también les ayudan a tomar decisiones para generar un impacto positivo.
 
+![Sevillano](img/Sevilla.jpg)
+
 [Referencia](https://www.expoknews.com/los-5-kpis-para-medir-sostenibilidad-mas-comunes/)
 
 

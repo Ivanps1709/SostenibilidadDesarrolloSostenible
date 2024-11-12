@@ -14,4 +14,6 @@ Tiene en cuenta la repercusión que tiene las comunidades en las que opera las a
 
 Estudia el impacto que tienen el gobierno coorporativo y los propios acccionistas, y se basa en cuestiones como la estructura de los consejos de administración, la renumeración de los ejecutivos, las auditorías, los controles internos y los derechos de los accionistas.
 
+![abuelo](img/Abuela.jpg)
+
 [Referencia](https://www.santander.com/es/stories/que-son-las-finanzas-sostenibles-o-asg)
