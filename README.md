@@ -13,7 +13,7 @@
 
 1.5 [Marco normativo y regulador de la sostenibilidad en Europa](marco.md)
 
-1.6 [Evaluación del desempeño en sostenibilidad de las empresas](EvaluaciónDelDesempeñoEnSostenibilidadDeLasEmpresas.md)
+1.6 [Evaluación del desempeño en sostenibilidad de las empresas](evaluacion.md)
 
 ## Mapa conceptual
 ![mapa conceptual](img/mapaconceptual.png)
